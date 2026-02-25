@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אתר חינוכי אינטראקטיבי עם עובדות מדע מעניינות לילדים, שאלות ותשובות מפתיעות וטכנולוגיה מרתקת. הצטרפו לקהילת הלמידה הכי כיפית!
+
+### קטגוריות
+https://example.com/categories
+מדע, טכנולוגיה, כסף ועובדות לא ידועות - גלו עובדות מדעיות לא ידועות בקטגוריות מגוונות שיעשירו את הידע שלכם ויפתיעו אתכם בכל פעם מחדש!
+
+### שלח עובדה
+https://example.com/submit
+יש לכם עובדה מעניינת? שלחו אותה אלינו! הפכו לחלק מקהילת היוצרים והוסיפו עובדות על טכנולוגיה לילדים ומדע שישתפו את כולם.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות ותשובות שמעניינות אתכם? רוצים לדעת עוד על עובדות מדע מעניינות לילדים? צרו קשר ונחזור אליכם במהירות עם תשובות מרתקות!
+
+### Products
+https://example.com/products
+המוצרים שלנו - עובדות חדשות
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - עובדות חדשות
+
+### Category
+https://example.com/category/:slug
+מוצרים - עובדות חדשות
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
